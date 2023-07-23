@@ -4,11 +4,21 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
 
 ## 🔭 My Projects
 
-### Project 1: Flipkart Review Scrapper (Link to Project 1 Repository)
-Description: A brief description of what the project is about and the problem it addresses.
+## Project 1: Flipkart Review Scrapper:(https://github.com/Sdkhan01/review_sc_aws.git)
+**Description**:
+The Flipkart Review Scraper is a web application developed using Python, Django, HTML, CSS, and other web technologies. The primary objective of the project is to provide users with a convenient and efficient way to search for any product on Flipkart and view customer reviews and comments for the chosen product. The application leverages web scraping techniques to extract relevant review data from Flipkart and displays it in a user-friendly format.
 
-### Project 2: Spotify Control Using Hand Gesture(https://github.com/Sdkhan01/Spotify-Control-Using-Gesture-Project.git)
+**Product Search**: Users can enter the name of any product they wish to explore, and the application will perform a search on Flipkart to find matching products.
+
+**Review Extraction**: The application scrapes the reviews and comments associated with the selected product, presenting them to the user.
+
+**Deployment on AWS using Elastic Beanstalk**:
+The Flipkart Review Scraper is deployed on AWS (Amazon Web Services) using Elastic Beanstalk, a fully managed service that handles the deployment and scaling of the application. By deploying on AWS, the application benefits from reliable infrastructure and scalability, ensuring smooth performance even during peak usage.
+
+## Project 2: Spotify Control Using Hand Gesture:(https://github.com/Sdkhan01/Spotify-Control-Using-Gesture-Project.git)
+
 **Description**: The Spotify Control Using Gesture project aims to provide a hands-free and intuitive way to control the Spotify music player using hand gestures captured through a webcam. The project leverages computer vision and machine learning techniques to detect and interpret hand gestures, allowing users to perform various music player commands without the need for physical interaction with the device.
+
 **Problem Adressed** : Traditional music player control methods often require users to physically interact with the device, such as using a keyboard or mouse to play/pause, skip tracks, or adjust the volume. This can be cumbersome, especially in scenarios where users are not in close proximity to the device or are engaged in other activities.
 
 
