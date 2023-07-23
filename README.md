@@ -27,7 +27,7 @@ Description: A brief description of what the project is about and the problem it
 
 ## 🔝 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdkhan0&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdkhan01&layout=compact&theme=dark)](https://github.com/yourusername)
 
 ## 📫 Let's Connect
 
