@@ -13,10 +13,10 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.kaggle.com/shadabkhan07" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.hackerrank.com/khanshadab786001" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/hackerrank.png" alt="HackerRank" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://twitter.com/SDKhan07?t=u3yyWrz7kYdGWfHyRramxQ&s=08" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="vertical-align: middle; margin-right: 10px;" />
@@ -25,6 +25,7 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-right: 10px;" />
   </a>
 </p>
+
 
 
 ## 🔭 My Projects
