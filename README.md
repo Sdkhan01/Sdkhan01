@@ -5,6 +5,7 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
 ## 🔭 My Projects
 
 ## Project 1: Flipkart Review Scrapper:(https://github.com/Sdkhan01/review_sc_aws.git)
+
 **Description**:
 The Flipkart Review Scraper is a web application developed using Python, Django, HTML, CSS, and other web technologies. The primary objective of the project is to provide users with a convenient and efficient way to search for any product on Flipkart and view customer reviews and comments for the chosen product. The application leverages web scraping techniques to extract relevant review data from Flipkart and displays it in a user-friendly format.
 
