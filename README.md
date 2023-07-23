@@ -5,24 +5,28 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
 
 ## 📫 Let's Connect: 
 
+<head>
+  <!-- Other meta tags and stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
 <p align="left">
   <a href="mailto:khanshadab7860000.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="vertical-align: middle; margin-right: 10px;" />
+    <i class="fas fa-envelope" style="font-size: 48px; color: #000000; margin-right: 10px;"></i>
   </a>
   <a href="https://www.linkedin.com/in/shadab-khan-88a632264/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;" />
+    <i class="fab fa-linkedin" style="font-size: 48px; color: #0077B5; margin-right: 10px;"></i>
   </a>
   <a href="https://www.kaggle.com/shadabkhan07" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle; margin-right: 10px;" />
+    <i class="fab fa-kaggle" style="font-size: 48px; color: #20BEFF; margin-right: 10px;"></i>
   </a>
   <a href="https://www.hackerrank.com/khanshadab786001" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" style="vertical-align: middle; margin-right: 10px;" />
+    <i class="fab fa-hackerrank" style="font-size: 48px; color: #2EC866; margin-right: 10px;"></i>
   </a>
   <a href="https://twitter.com/SDKhan07?t=u3yyWrz7kYdGWfHyRramxQ&s=08" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="vertical-align: middle; margin-right: 10px;" />
+    <i class="fab fa-twitter" style="font-size: 48px; color: #1DA1F2; margin-right: 10px;"></i>
   </a>
- <a href="https://www.instagram.com/_beingshadabkhan_/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-right: 10px;" />
+  <a href="https://www.instagram.com/_beingshadabkhan_/" target="_blank">
+    <i class="fab fa-instagram" style="font-size: 48px; color: #E4405F; margin-right: 10px;"></i>
   </a>
 </p>
 
