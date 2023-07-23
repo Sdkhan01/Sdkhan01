@@ -3,7 +3,7 @@
 I'm an aspiring Data Scientist passionate about using data to gain insights and solve real-world problems. Welcome to my GitHub profile! Here, you'll find some of my data science projects and contributions.
 
 
-## 📫 Contact Me
+## 📫 Contact Me:-
 
 <p align="center">
   <a href="mailto:khanshadab7860000.com" target="_blank">
@@ -12,14 +12,15 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
   <a href="https://www.linkedin.com/in/shadab-khan-88a632264/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;" />
   </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
+  <a href="https://twitter.com/SDKhan07?t=u3yyWrz7kYdGWfHyRramxQ&s=08" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="vertical-align: middle; margin-right: 10px;" />
   </a>
  <a href="https://www.instagram.com/_beingshadabkhan_/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-right: 10px;" />
   </a>
 </p>
-- 
+
+
 ## 🔭 My Projects
 
 ## Project 1: Flipkart Review Scrapper:(https://github.com/Sdkhan01/review_sc_aws.git)
