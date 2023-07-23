@@ -3,7 +3,7 @@
 I'm an aspiring Data Scientist passionate about using data to gain insights and solve real-world problems. Welcome to my GitHub profile! Here, you'll find some of my data science projects and contributions.
 
 
-## 📫 Contact Me:
+## 📫 Let's Connect: 
 
 <p align="left">
   <a href="mailto:khanshadab7860000.com" target="_blank">
@@ -11,6 +11,12 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
   </a>
   <a href="https://www.linkedin.com/in/shadab-khan-88a632264/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;" />
+  </a>
+  <a href="https://www.kaggle.com/shadabkhan07" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle; margin-right: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/@khanshadab786001" target="_blank">
+    <img src="https://img.icons8.com/windows/48/000000/hackerrank.png" alt="HackerRank" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://twitter.com/SDKhan07?t=u3yyWrz7kYdGWfHyRramxQ&s=08" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="vertical-align: middle; margin-right: 10px;" />
@@ -67,9 +73,6 @@ The Flipkart Review Scraper is deployed on AWS (Amazon Web Services) using Elast
 ![](https://komarev.com/ghpvc/?username=Sdkhan01&color=green)
 
 
-## 📫 Let's Connect
-
-- LinkedIn: www.linkedin.com/in/shadab-khan-88a632264
 
 ## 📈 Data Science Journey
 
