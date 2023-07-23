@@ -29,6 +29,11 @@ Description: A brief description of what the project is about and the problem it
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdkhan01&layout=compact&theme=dark)](https://github.com/yourusername)
 
+## 📫Visitors Counter
+
+![](https://komarev.com/ghpvc/?username=Sdkhan01&color=green)
+
+
 ## 📫 Let's Connect
 
 - LinkedIn: www.linkedin.com/in/shadab-khan-88a632264
