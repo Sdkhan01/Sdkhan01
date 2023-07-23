@@ -5,10 +5,6 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
 
 ## 📫 Let's Connect: 
 
-<head>
-  <!-- Other meta tags and stylesheets -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
 <p align="left">
   <a href="mailto:khanshadab7860000.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="vertical-align: middle; margin-right: 10px;" />
