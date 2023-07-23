@@ -3,9 +3,9 @@
 I'm an aspiring Data Scientist passionate about using data to gain insights and solve real-world problems. Welcome to my GitHub profile! Here, you'll find some of my data science projects and contributions.
 
 
-## 📫 Contact Me:-
+## 📫 Contact Me:
 
-<p align="center">
+<p align="left">
   <a href="mailto:khanshadab7860000.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="vertical-align: middle; margin-right: 10px;" />
   </a>
