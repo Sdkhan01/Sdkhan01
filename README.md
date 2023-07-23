@@ -7,8 +7,11 @@ I'm an aspiring Data Scientist passionate about using data to gain insights and 
 ### Project 1: Flipkart Review Scrapper (Link to Project 1 Repository)
 Description: A brief description of what the project is about and the problem it addresses.
 
-### Project 2: Spotify Control Using Hand Gesture(Link to Project 2 Repository)
-Description: A brief description of what the project is about and the problem it addresses.
+### Project 2: Spotify Control Using Hand Gesture(https://github.com/Sdkhan01/Spotify-Control-Using-Gesture-Project.git)
+**Description**: The Spotify Control Using Gesture project aims to provide a hands-free and intuitive way to control the Spotify music player using hand gestures captured through a webcam. The project leverages computer vision and machine learning techniques to detect and interpret hand gestures, allowing users to perform various music player commands without the need for physical interaction with the device.
+**Problem Adressed** : Traditional music player control methods often require users to physically interact with the device, such as using a keyboard or mouse to play/pause, skip tracks, or adjust the volume. This can be cumbersome, especially in scenarios where users are not in close proximity to the device or are engaged in other activities.
+
+
 
 ### ...
 
