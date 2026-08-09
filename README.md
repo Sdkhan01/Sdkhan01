@@ -1,79 +1,50 @@
-# Hi there! 👋 I'm Shadab Khan,
+## Shadab Khan
 
-I'm an aspiring Data Scientist passionate about using data to gain insights and solve real-world problems. Welcome to my GitHub profile! Here, you'll find some of my data science projects and contributions.
+I build production AI systems — not demos. Agent logic, backend, escalation
+paths, deployment, and the support afterwards.
 
+**Currently:** AI Engineer @ [Eligent AI](https://eligentai.com) — multi-tenant
+AI systems for clinics and SMBs.
 
-## 📫 Let's Connect: 
-<p align="left">
-  <a href="mailto:khanshadab7860000.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/shadab-khan-88a632264/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <a href="https://twitter.com/SDKhan07?t=u3yyWrz7kYdGWfHyRramxQ&s=08" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/_beingshadabkhan_/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-</p>
+---
 
+### What I've shipped
 
+**AI front desk for clinics**
+Patients chat on the website or WhatsApp. It answers from the clinic's own
+documents, checks the doctor's live schedule, books the appointment, and emails
+confirmations plus 24h/2h reminders. Several clinics run on one backend with
+fully isolated data.
 
+**AI support desk**
+RAG answers with confidence scoring, automatic escalation to a human, and live
+agent takeover mid-conversation — the customer sees the agent join.
 
+**→ Talk to one of them, no signup: [eligentai-support.vercel.app](https://eligentai-support.vercel.app)**
 
+---
 
-## 🔭 My Projects
+### Stack
 
-## Project 1: Flipkart Review Scrapper:(https://github.com/Sdkhan01/review_sc_aws.git)
+`Python` `FastAPI` `LangChain / LangGraph` `OpenAI API` `PostgreSQL + pgvector`
+`Next.js` `TypeScript` `Docker` `Railway` `Vercel`
 
-**Description**:
-The Flipkart Review Scraper is a web application developed using Python, Django, HTML, CSS, and other web technologies. The primary objective of the project is to provide users with a convenient and efficient way to search for any product on Flipkart and view customer reviews and comments for the chosen product. The application leverages web scraping techniques to extract relevant review data from Flipkart and displays it in a user-friendly format.
+Multi-tenancy, JWT auth, RBAC, rate limiting, Alembic migrations, Sentry —
+the parts that decide whether an AI product survives real users.
 
-**Product Search**: Users can enter the name of any product they wish to explore, and the application will perform a search on Flipkart to find matching products.
+---
 
-**Review Extraction**: The application scrapes the reviews and comments associated with the selected product, presenting them to the user.
+### Why my repositories are private
 
-**Deployment on AWS using Elastic Beanstalk**:
-The Flipkart Review Scraper is deployed on AWS (Amazon Web Services) using Elastic Beanstalk, a fully managed service that handles the deployment and scaling of the application. By deploying on AWS, the application benefits from reliable infrastructure and scalability, ensuring smooth performance even during peak usage.
+Most of my work is client production code, so the repos aren't public. The
+live demo above is the fastest way to see what I build, and I'm happy to walk
+through architecture and code in a call.
 
-## Project 2: Spotify Control Using Hand Gesture:(https://github.com/Sdkhan01/Spotify-Control-Using-Gesture-Project.git)
+---
 
-**Description**: The Spotify Control Using Gesture project aims to provide a hands-free and intuitive way to control the Spotify music player using hand gestures captured through a webcam. The project leverages computer vision and machine learning techniques to detect and interpret hand gestures, allowing users to perform various music player commands without the need for physical interaction with the device.
+### Open to work
 
-**Problem Adressed** : Traditional music player control methods often require users to physically interact with the device, such as using a keyboard or mouse to play/pause, skip tracks, or adjust the volume. This can be cumbersome, especially in scenarios where users are not in close proximity to the device or are engaged in other activities.
+AI Engineer / Forward Deployed Engineer — remote, US hours or IST, contract or
+full-time.
 
-
-
-### ...
-
-## 🌱 Skills
-
-- Data Analysis with Python (Pandas, Numpy)
-- Data Visualization (Matplotlib, Seaborn)
-- SQL and Database Management
-- PostgreSql
-- Data Cleaning and Preprocessing
-- Statistical Analysis
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sdkhan01&show_icons=true&theme=dark)
-
-## 🔝 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdkhan01&layout=compact&theme=dark)](https://github.com/yourusername)
-
-## 📫Visitors Counter
-
-![](https://komarev.com/ghpvc/?username=Sdkhan01&color=green)
-
-
-
-## 📈 Data Science Journey
-
-I'm continuously learning and improving my data science skills. I'm excited to collaborate on data-driven projects and explore new opportunities in the field.
-
-Feel free to explore my repositories and get in touch if you have any questions or suggestions. Let's learn and grow together!
-
+[LinkedIn](https://linkedin.com/in/shadabkhanai) · [Portfolio](https://eligentai.com) · shadab@eligentai.com
