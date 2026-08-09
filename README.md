@@ -41,6 +41,8 @@ isolated data.
 > human takeover with typing indicators, role based staff accounts (admin / agent / viewer)
 >
 > `FastAPI` `LangGraph` `PostgreSQL` `Next.js` `Telegram API` `WhatsApp Cloud API`
+>
+> **[Try it live, no signup required]( https://smiledentalstudios.netlify.app/)**
 
 ### AI Support Desk
 RAG answers grounded in a company's own documents, with a confidence score on every
@@ -52,7 +54,7 @@ mid conversation with the customer seeing them join.
 >
 > `FastAPI` `LangChain` `OpenAI` `pgvector` `Next.js` `SSE streaming`
 >
-> **[Try it live, no signup required](https://eligentai-support.vercel.app)**
+> **[Try it live, no signup required](https://eligentai-support.vercel.app)** 
 
 ---
 
