@@ -96,8 +96,3 @@ architecture and code in a call.
   <a href="https://eligentai.com">Portfolio</a> ·
   <a href="mailto:shadab@eligentai.com">shadab@eligentai.com</a>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sdkhan01&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdkhan01&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="150" alt="Top languages" />
-</p>
